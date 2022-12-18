@@ -1,0 +1,24 @@
+header{
+    background-color:#99CEFF;
+    border-radius:10px;
+    margin-bottom:10px;
+}
+a{
+    background-color:white;
+    border-radius:10px;
+    padding:5px;
+    border:3px solid darkblue;
+    margin:10px;
+}
+main p{
+    font-size:20px;
+}
+h1{
+    font-size:30px;
+    text-align:center;
+}
+footer{
+    font-size:20px;
+    background-color:#99CEFF;
+    border-radius:10px;
+}
